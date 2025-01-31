@@ -16,11 +16,6 @@ It is designed for **high availability**, **scalability**, and **secure deployme
 ![the application](https://github.com/AnandPattanashetti/UPswing-Task/blob/main/6.png)
 ![the application](https://github.com/AnandPattanashetti/UPswing-Task/blob/main/7.png)
 
-## VideoProof
-![Watch the video](https://example.com/video)
-![Watch the video](https://example.com/video)
-![Watch the video](https://example.com/video)
-
 
 ## 📂 Helm Chart Structure  
 
