@@ -8,12 +8,18 @@ It is designed for **high availability**, **scalability**, and **secure deployme
 
 ## Screenshots
 
-![cluster created](https://github.com/AnandPattanashetti/cloud-devops-task/blob/main/Screenshot%20(722).png)  
-![clusters](https://github.com/AnandPattanashetti/cloud-devops-task/blob/main/Screenshot%20(720).png)  
-![clusters](https://github.com/AnandPattanashetti/cloud-devops-task/blob/main/Screenshot%20(721).png)  
-![cluster created](https://github.com/AnandPattanashetti/cloud-devops-task/blob/main/Screenshot%20(722).png)  
-![pods running](https://github.com/AnandPattanashetti/cloud-devops-task/blob/main/Screenshot%20(719).png)  
-![the application](https://github.com/AnandPattanashetti/cloud-devops-task/blob/main/Screenshot%20(725).png)
+![cluster created](https://github.com/AnandPattanashetti/UPswing-Task/blob/main/1.png)  
+![clusters](https://github.com/AnandPattanashetti/UPswing-Task/blob/main/2.png)  
+![clusters](https://github.com/AnandPattanashetti/UPswing-Task/blob/main/3.png)  
+![cluster created](https://github.com/AnandPattanashetti/UPswing-Task/blob/main/4.png)  
+![pods running](https://github.com/AnandPattanashetti/UPswing-Task/blob/main/5.png)  
+![the application](https://github.com/AnandPattanashetti/UPswing-Task/blob/main/6.png)
+![the application](https://github.com/AnandPattanashetti/UPswing-Task/blob/main/7.png)
+
+## VideoProof
+![Watch the video](https://example.com/video)
+![Watch the video](https://example.com/video)
+![Watch the video](https://example.com/video)
 
 
 ## 📂 Helm Chart Structure  
