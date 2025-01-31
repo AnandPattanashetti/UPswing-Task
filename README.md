@@ -17,11 +17,11 @@ It is designed for **high availability**, **scalability**, and **secure deployme
 ![the application](https://github.com/AnandPattanashetti/UPswing-Task/blob/main/7.png)
 
 ## Videos
-[Watch the video](https://example.com/video)
+[Watch the video](https://github.com/AnandPattanashetti/UPswing-Task/blob/main/1.mp4)
 
-[Watch the video](https://example.com/video)
+[Watch the video](https://github.com/AnandPattanashetti/UPswing-Task/blob/main/2.mp4)
 
-[Watch the video](https://example.com/video)
+[Watch the video](https://github.com/AnandPattanashetti/UPswing-Task/blob/main/3.mp4)
 
 
 
